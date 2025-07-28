@@ -8,3 +8,4 @@ Hardcodes any looped print and variable assignment.
 ```bash
 python hardcoder.py examples/sample.py
 ```
+This will convert `examples/sample.py` and save in `fixed/fixed_sample.py`.

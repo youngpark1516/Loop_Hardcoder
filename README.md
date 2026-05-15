@@ -1,6 +1,6 @@
 # Loop Hardcoder
 
-**Loops are unnecessary and inherently evil**
+**Loops are unnecessary**
 
 Hardcodes any looped print and variable assignment.
 
@@ -9,3 +9,7 @@ Hardcodes any looped print and variable assignment.
 python hardcoder.py examples/sample.py
 ```
 This will convert `examples/sample.py` and save in `fixed/fixed_sample.py`.
+
+
+
+Wow I must've been bored
